@@ -1,1 +1,0 @@
-CUDA_VISIBLE_DEVICES=3 python src/train.py --model_name tasn --save_name tasn_rice --phase train --data_path /home/GrainSet/rice

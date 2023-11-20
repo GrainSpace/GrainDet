@@ -1,2 +1,0 @@
-CUDA_VISIBLE_DEVICES=0 python test.py base_configs/rice_maskrcnn.py checkpoints/rice_maskrcnn.pth --out results/rice_maskrcnn.pkl
-CUDA_VISIBLE_DEVICES=0 python test.py base_configs/rice_rtmdet.py checkpoints/rice_rtmdet.pth --out results/rice_rtmdet.pkl
